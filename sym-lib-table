@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "esp32-connectivity-shield-rescue")(type "Legacy")(uri "${KIPRJMOD}/esp32-connectivity-shield-rescue.lib")(options "")(descr ""))
+  (lib (name "ks8721bl")(type "Legacy")(uri "${KIPRJMOD}/lib/ks8721bl.lib")(options "")(descr ""))
+  (lib (name "max485")(type "Legacy")(uri "${KIPRJMOD}/lib/max485.lib")(options "")(descr ""))
+  (lib (name "MOSFET-P")(type "Legacy")(uri "${KIPRJMOD}/lib/MOSFET-P.lib")(options "")(descr ""))
+  (lib (name "device")(type "Legacy")(uri "${KIPRJMOD}/lib/device.lib")(options "")(descr ""))
+)
